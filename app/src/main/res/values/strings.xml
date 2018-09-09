@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cotacão Moedas</string>
+    <string name="dollar">O dólar dos Estados Unidos ou dólar americano é a moeda oficial dos Estados Unidos e utilizada no mundo inteiro, tanto em reservas internacionais como em livre circulação em alguns países. Atualmente, a sua expedição é controlada pela Reserva Federal dos Estados Unidos.</string>
+    <string name="euro">Euro é a moeda oficial da zona Euro, a qual é constituída por 19 dos 28 estados-membro da União Europeia.A moeda é também usada de forma oficial pelas instituições da União Europeia e por quatro outros países europeus e, de forma unilateral, por outros dois.</string>
+    <string name="peso">O peso argentino é a moeda oficial da Argentina. A moeda adota divisões em centavos de 1, 5, 10, 25, 50 centavos, 1, 2 e 5 pesos. Já as notas são de 5, 10, 20, 50, 100, 200, 500 e 1000 pesos.</string>
+    <string name="libra">A libra esterlina ou simplesmente libra é a moeda oficial do Reino Unido. Desde 15 de Fevereiro de 1971 e da adoção do sistema decimal, ela é dividida em 100 pence. Antes dessa data, uma libra esterlina valia 20 shillings (que valiam por sua vez 12 pence cada um), ou 240 pence.</string>
+    <string name="bitcoin">Bitcoin é uma criptomoeda descentralizada, constituindo um sistema econômico alternativo. Inicialmente apresentada em 2008 na lista de discussão The Cryptography Mailing por um programador ou grupo de programadores sob o pseudônimo Satoshi Nakamoto, é considerada a primeira moeda digital mundial descentralizada, e responsável pelo ressurgimento do sistema bancário livre.</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="historia">História</string>
+    <string name="moeda">Moeda:</string>
+    <string name="data_cotacao">Data da Cotação:</string>
+    <string name="fonte">Fonte:</string>
+</resources>
