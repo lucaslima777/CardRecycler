@@ -21,7 +21,7 @@ List with RecyclerView
 
 
 
-1. Link Dowload .      
+1. Link Download
 ZIP：https://drive.google.com/file/d/1S3ZABl1f_7HoSS1yzRRMlWiblMXzDXhL/view?usp=sharing
 
 
